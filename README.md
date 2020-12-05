@@ -10,12 +10,30 @@ Public Leaderboard score: 9.93795 & 10.03450
 
 You can find the submission csv files under ```5001/external data/```.
 
-## Installing packages
+## Description
+The local CV score is around 9.75 MSE.
+
+This CV score is obtained by taking the mean of 100 instances of LightGBM model with CV. (Code not provided)
+
+## Running Locally
+The python version I used is Python 3.8.
+
 Install the required packages by running:
 ```python
 pip install -r requirements.txt
 ```
 
-## How to reproduce the result
+## Running on Colab (Optional)
+The notebook was originally run on Google Colab.
+
+But running on Colab requires you to install the ```holidays``` package by running:
+```python
+!pip install holidays
+```
+
+
+## How to reproduce the results
 Simply run the cells in the jupyter notebook.
+It should generate a submission file that scores 10.03450 on the public leaderboard.
+a lower score can be obtained by changing the random state.
 
