@@ -35,5 +35,5 @@ But running on Colab requires you to install the ```holidays``` package by runni
 ## How to reproduce the results
 Simply run the cells in the jupyter notebook.
 It should generate a submission file that scores 10.03450 on the public leaderboard.
-a lower score can be obtained by changing the random state.
+The lower score was obtained when the random_state of CV was removed.
 
