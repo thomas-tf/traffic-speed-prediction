@@ -8,7 +8,7 @@ Public Leaderboard score: 9.93795 & 10.03450
 
 2 submissions were chosen as final.
 
-You can find the submission csv files under ```5001/external data/```.
+You can find the submission csv files under ```5001/```.
 
 ## Description
 The local CV score is around 9.75 MSE.
