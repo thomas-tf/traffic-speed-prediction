@@ -6,7 +6,7 @@ Team name: Thomas Wong
 
 Public Leaderboard score: 9.93795 & 10.03450.
 
-Private Leadboard score: 10.64356 (Ranked 7th)
+Private Leadboard score: [10.64356](https://www.kaggle.com/c/msbd5001-fall2020/leaderboard) (Ranked 7th excluding deleted accounts due to people cheating)
 
 2 submissions were chosen as final.
 
